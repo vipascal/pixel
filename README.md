@@ -19,7 +19,7 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 ## Project Work
 
-This is part of my ALCwithGoogle project work under udacity tutelage. I am extremely grateful and happy to present my project. **click** [here]().
+This is part of my ALCwithGoogle project work under udacity tutelage. I am extremely grateful and happy to present my project. **click** [here](https://vipascal.github.io/pixel/).
 
 ## Veiw
 
