@@ -1,0 +1,90 @@
+body {
+    text-align: center;
+    background-color: gray;
+    font-weight: bold;
+}
+
+h1 {
+    font-family: Rancho;
+    font-size: 70px;
+    margin: 0.2em;
+
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+    font: 25px arial, sans-serif;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+    background-color: white;
+}
+
+table {
+    margin-top: 40px;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+    background-color: #990033;
+    border-radius: 15px 50px;
+    border: 2px solid black;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: text;
+    font: 100%/1.6 palatino, georgia, serif;
+    
+}
+
+input[type=submit],
+input[type=reset],
+button {
+    border: 2px solid wheat;
+    background-color: lightblue;
+    border-radius: 50px 50px;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+input[type=color] {
+    border: 2px solid black;
+    background-color: none;
+    border-radius: 50px 50px;
+    padding: 5px 15px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+#container {
+    border: 3px solid black;
+    background-color: aqua;
+    border-radius: 25px;
+
+}
