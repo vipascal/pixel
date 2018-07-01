@@ -1,4 +1,4 @@
-# pixel
+# Pixel Art Project
 
 ## Table of Contents
 
