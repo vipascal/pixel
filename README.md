@@ -17,7 +17,7 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 
 This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-## Project Work
+## Testing
 
 This is part of my ALCwithGoogle project work under udacity tutelage. I am extremely grateful and happy to present my project. **click** [here](https://vipascal.github.io/pixel/).
 
