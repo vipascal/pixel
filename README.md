@@ -19,7 +19,7 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 ## Testing
 
-This is part of my ALCwithGoogle project work under udacity tutelage. I am extremely grateful and happy to present my project. **click** [here](https://vipascal.github.io/pixel/).
+This is part of my ALCwithGoogle project work under udacity tutelage. I am extremely grateful and happy to present my project. **click** [here](https://vipascal.github.io/udacity-assignment--Pixel-Art-Maker/).
 
 ## Veiw
 
